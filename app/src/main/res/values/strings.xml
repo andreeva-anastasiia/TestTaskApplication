@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="update_button">UPDATE</string>
+
+    //Информация о каждой валюте
+    <string name="currency_name">Currency Name</string>
+    <string name="currency_charCode">CharCode</string>
+    <string name="currency_value">Currency Value</string>
+
+    //Конвертация
+    <string name="explanation">Please enter the amount of rubles (no kopecks) you would like to convert in chosen currency</string>
+    <string name="RUB">RUB</string>
+    <string name="charCode">XXX</string>
+    <string name="convert">CONVERT</string>
+    <string name="amount_in_currency">amount will be here</string>
+
+</resources>
